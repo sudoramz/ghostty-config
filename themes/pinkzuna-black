@@ -1,0 +1,30 @@
+# Pinkzuna Black Colors
+# Dark theme inspired by Black AI
+background = #1B1B1B
+foreground = #E0E0F0
+
+cursor-color = #FF5589
+cursor-text = #1B1B1B
+
+selection-background = #572E3B
+selection-foreground = #E0E0F0
+
+split-divider-color = #404040
+
+palette = 0=#373133
+palette = 1=#A45859
+palette = 2=#11846E
+palette = 3=#936823
+palette = 4=#7665A6
+palette = 5=#975985
+palette = 6=#00828E
+palette = 7=#A0999C
+
+palette = 8=#40383B
+palette = 9=#CA545A
+palette = 10=#009C7B
+palette = 11=#B37000
+palette = 12=#886ACF
+palette = 13=#B8589D
+palette = 14=#0097AC
+palette = 15=#B5AAAF

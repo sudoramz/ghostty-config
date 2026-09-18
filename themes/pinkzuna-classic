@@ -1,0 +1,30 @@
+# Pinkzuna Classic Colors
+# Light theme inspired by Kizuna AI
+background = #FFF5F8
+foreground = #2A1520
+
+cursor-color = #DC0065
+cursor-text = #FFF5F8
+
+selection-background = #F9C1D4
+selection-foreground = #2A1520
+
+split-divider-color = #ECB9CE
+
+palette = 0=#4B4246
+palette = 1=#DA6B6E
+palette = 2=#00AD8D
+palette = 3=#C38300
+palette = 4=#997FDE
+palette = 5=#C96DAE
+palette = 6=#00A9BC
+palette = 7=#CEC4C8
+
+palette = 8=#5C5256
+palette = 9=#FF8386
+palette = 10=#00D1AB
+palette = 11=#EBA002
+palette = 12=#B99AFF
+palette = 13=#F286D2
+palette = 14=#00CCE3
+palette = 15=#F7EBF0
